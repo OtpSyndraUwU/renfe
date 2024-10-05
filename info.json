@@ -1,0 +1,10 @@
+{
+    "name": "renfe",
+    "version": "0.0.1",
+    "title": "RENFE",
+    "author": "amelila",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "En desarrollo, reemplazara el tren por uno de renfe"
+  }
+  
